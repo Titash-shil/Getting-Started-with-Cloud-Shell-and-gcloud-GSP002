@@ -13,11 +13,11 @@
 export ZONE=
 ```
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Store-Process-and-Manage-Data-on-Google-Cloud---Command-Line-Challenge-Lab-ARC102/refs/heads/main/qwiklab_explorers_arc102.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Getting-Started-with-Cloud-Shell-and-gcloud-GSP002/refs/heads/main/qwiklab_explorers_gsp002.sh
 
-sudo chmod +x qwiklab_explorers_arc102.sh
+sudo chmod +x qwiklab_explorers_gsp002.sh
 
-./qwiklab_explorers_arc102.sh
+./qwiklab_explorers_gsp002.sh
 ```
 
 ---
